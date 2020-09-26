@@ -1,1 +1,2 @@
 ahoj lidi, pouzili jste git pull
+a teď i push! hooray
